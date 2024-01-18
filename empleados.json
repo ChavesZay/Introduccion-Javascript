@@ -1,0 +1,24 @@
+{
+    "empleados":[
+        {
+            "id":1,
+            "nombre":"Zaylin Chaves",
+            "puesto":"Programador web"
+        },
+        {
+            "id":2,
+            "nombre":"Luis Salguero",
+            "puesto":"Programador C#"
+        },
+        {
+            "id":3,
+            "nombre":"Wiiliam Perez",
+            "puesto":"Programador C++"
+        },
+        {
+            "id":4,
+            "nombre":"Oscar Angulo",
+            "puesto":"UX / UI"
+        }
+    ]
+}
